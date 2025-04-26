@@ -6,11 +6,9 @@ body{
     margin: -21px;
     display: flex;
     justify-content: center;
-    padding-left: 5px;
-    padding-top: 10px;
-    padding-bottom: 15px;
     font-size: 40px;
     height: 70px;
+    color: #ffffff;
     background-color: #000000;
     margin-bottom: 5px;
 }
